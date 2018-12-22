@@ -1,0 +1,6 @@
+name: PvPSwap
+version: 1.0
+main: net.linaris.pvpswap.PvPSwap
+depend: [GameAPI,BukkitAPI]
+commands:
+  game:
